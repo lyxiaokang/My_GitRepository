@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+merge 禁用Fast forward模式
